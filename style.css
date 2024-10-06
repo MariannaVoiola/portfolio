@@ -1,0 +1,78 @@
+body{
+    color: white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ul{
+    display: flex;
+    justify-content:space-between ;
+    list-style-type: none;
+    align-items: center;
+    padding: 16pd;
+
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid green;
+}
+.center{
+    text-align: center;
+}
+
+header {
+    border-bottom: solid 2px #9c9c70;
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(187, 72, 135);}
+
+
+    .chamada-texto {
+        margin-right: 30%;
+    }
+    
+    h1 {
+        font-size: 40px;
+        color: rgb(89, 139, 205);}
+    h2 {font-size: 40px;
+        color: rgb(125, 210, 96);}
+    
+    p {
+        font-size: 20px;
+        color: rgb(125, 188, 233);}
+        
+        ul{
+            display:flex;
+            justify-content: space-between;
+            list-style-type: none;
+            padding: 16px;
+        }
+        .project{
+            margin-right: 30%;
+        }
+        
+        h1 {
+            font-size: 40px;
+            color: rgb(89, 139, 205);}
+        h2 {font-size: 40px;
+            color: rgb(125, 210, 96);}
+        
+        p {
+            font-size: 20px;
+            color: rgb(125, 188, 233);}
+            
+            ul{
+                display:flex;
+                justify-content: space-between;
+                list-style-type: none;
+                padding: 16px;
+
+        }
+    
+
